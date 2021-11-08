@@ -10,7 +10,7 @@
 - płytka Arduino Uno
 - płytka stykowa
 - diody LED
-- kabelki
+- przewody (Męsko-Męskie)
 - Moduł wyświetlacza LCD
 - ultradzwiekowy czujniki odleglosci
 
