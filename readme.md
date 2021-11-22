@@ -3,7 +3,7 @@
 
 ## Temat projektu
 
--Czujnik cofania
+-Czujnik cofania (odległość od przeszkody będzie się wyświetlać na wyświetlaczu, po przekroczeniu jakiejś odleglości buzzer czanie pikać a dioda świecić)
 
 ## Lista elementów
 
