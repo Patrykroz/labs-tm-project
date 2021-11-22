@@ -3,17 +3,24 @@
 
 ## Temat projektu
 
--Światło reagujące na zbliżający się obiekt (tym bliżej tym inny kolor diód sie zapala) na wyświetlaczu wyświetla się odległość od przeszkody
+-Czujnik cofania
 
 ## Lista elementów
 
-- płytka Arduino Uno
-- płytka stykowa
-- diody LED
-- przewody (Męsko-Męskie)
-- Moduł wyświetlacza LCD
-- ultradzwiekowy czujniki odleglosci
+Wymagane elementy:
 
-[https://allegro.pl/oferta/zestaw-l-arduino-uno-starter-kit-prezent-9924753145](https://allegro.pl/oferta/zestaw-l-arduino-uno-starter-kit-prezent-9924753145)
+-Arduino UNO 
 
-[https://botland.com.pl/ultradzwiekowe-czujniki-odleglosci/1420-ultradzwiekowy-czujnik-odleglosci-hc-sr04-2-200cm-5903351241366.html?gclid=EAIaIQobChMIwv3ExeyJ9AIViakYCh1_xgl_EAQYASABEgLx-fD_BwE&sskey=7caa41845a6b43778a15c860a0dcecc5](https://botland.com.pl/ultradzwiekowe-czujniki-odleglosci/1420-ultradzwiekowy-czujnik-odleglosci-hc-sr04-2-200cm-5903351241366.html?gclid=EAIaIQobChMIwv3ExeyJ9AIViakYCh1_xgl_EAQYASABEgLx-fD_BwE&sskey=7caa41845a6b43778a15c860a0dcecc5)
+-Płytka stykowa z przewodami połączeniowymi
+
+-Moduł wyświetlacza LCD 1602 kolor Niebieski 2x16
+
+-Ultradźwiękowy czujnik odległości HC-SR04
+
+-Buzzer
+
+-Dioda led czerwona
+
+-Potencjometr 10kOhm
+
+-Rezystor 1/4W 220R 
